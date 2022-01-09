@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Users\\savat\\Desktop\\ginft_maker\\public\\resources\\rain",
+  "images": [
+    {
+      "name": "frame_0_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_0_delay-0.05s.gif",
+      "folder": ""
+    },
+    {
+      "name": "frame_1_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_1_delay-0.05s.gif",
+      "folder": ""
+    },
+    {
+      "name": "frame_2_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_2_delay-0.05s.gif",
+      "folder": ""
+    },
+    {
+      "name": "frame_3_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_3_delay-0.05s.gif",
+      "folder": ""
+    },
+    {
+      "name": "frame_4_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_4_delay-0.05s.gif",
+      "folder": ""
+    },
+    {
+      "name": "frame_5_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_5_delay-0.05s.gif",
+      "folder": ""
+    },
+    {
+      "name": "frame_6_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_6_delay-0.05s.gif",
+      "folder": ""
+    },
+    {
+      "name": "frame_7_delay-0.05s.gif",
+      "path": "C:/Users/savat/Desktop/ginft_maker/public/resources/rain/frame_7_delay-0.05s.gif",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "rain",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (array)",
+    "fileName": "pack-result",
+    "savePath": "C:\\Users\\savat\\Desktop\\ginft_maker\\public\\resources\\rain",
+    "width": 2000,
+    "height": 2000,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": false,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BottomLeftRule"
+  }
+}
